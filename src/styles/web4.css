@@ -1,0 +1,81 @@
+
+.bgs{
+    background-color: #007bff;
+  
+    color: aliceblue; 
+    width: 100%;
+}
+ .nav-link:hover {
+    color: #b70707b0;
+    background-color: #007bff;
+}
+
+
+
+.navbar .brandLogo{
+    /* color: aqua; */
+    font-size: 2rem;
+    font-weight: 600;
+}
+.navbar .nav-link {
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+.intro-bg{
+ 
+    color: black;    
+}
+
+
+
+@media screen and (max-width:575px) {
+    .four-blocks {
+      margin-bottom: 20px;
+      
+    }
+  }
+
+
+.game-img{
+    width: 100%;
+}
+.trend-img{
+    width: 100%;
+}
+
+@media screen and (max-width:575px) {
+    .trend-box{
+      margin-bottom: 20px; 
+    }
+  }
+
+  @media screen and (max-width:575px) {
+    .top-games{
+      margin-bottom: 20px; 
+    }
+  }
+
+  @media screen and (max-width:575px) {
+    .box-img{
+      margin-bottom: 20px; 
+      
+
+    }
+  }
+
+  .text-red{
+    color: rgb(230, 106, 106);
+  }
+
+  .btn.bg-danger:hover {
+    background-color: #007bff !important;
+    color: #ffffff !important; 
+    width: 70%;
+
+  }
